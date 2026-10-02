@@ -1,8 +1,6 @@
 # 🦾 João Vitor
 
-**`Desenvolvedor em Desenvolvimento`**
-
-Olá, me chamo João Vitor, tenho 19 anos e sou natural da Paraíba. Concluí o ensino médio no ECIT, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na UFPB. Gosto muito de tecnologia.
+**`Administrator`**
 
 ---
 
